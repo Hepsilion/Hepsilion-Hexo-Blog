@@ -1,0 +1,7 @@
+<aside id="sidebar">
+   <%- partial('search/index') %> 
+   <% theme.widgets.forEach(function(widget) { %>
+        <%- partial('widget/' + widget) %>
+    <% }) %>
+    <div id="toTop" class="fa fa-angle-up"></div>
+</aside>
