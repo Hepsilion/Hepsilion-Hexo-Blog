@@ -1,9 +1,9 @@
 ---
-title: SpringMVC-04 SpringMVC表单标签库
+title: 04-SpringMVC表单标签库
 thumbnail: 'https://wx2.sinaimg.cn/small/e3dde130ly1fft6ucav3vj20zk0iyq5v.jpg'
 date: 2017-10-22 14:49:57
-tags:
-categories:
+tags: SpringMVC
+categories: SpringMVC
 description:
 ---
 

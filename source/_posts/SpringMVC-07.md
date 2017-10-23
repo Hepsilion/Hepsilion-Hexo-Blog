@@ -1,9 +1,9 @@
 ---
-title: SpringMVC-07 文件上传
+title: 07-文件上传
 thumbnail: 'https://wx2.sinaimg.cn/small/e3dde130ly1fft6ucav3vj20zk0iyq5v.jpg'
 date: 2017-10-22 14:55:13
-tags:
-categories:
+tags: SpringMVC
+categories: SpringMVC
 description:
 ---
 

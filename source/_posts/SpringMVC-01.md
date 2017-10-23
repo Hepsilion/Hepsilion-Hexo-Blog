@@ -1,9 +1,9 @@
 ---
-title: SpringMVC-01 SpringMVC入门与环境配置
+title: 01-SpringMVC入门与环境配置
 thumbnail: 'https://wx2.sinaimg.cn/small/e3dde130ly1fft6ucav3vj20zk0iyq5v.jpg'
 date: 2017-10-22 14:41:29
-tags:
-categories:
+tags: SpringMVC
+categories: SpringMVC
 description:
 ---
 
